@@ -55,13 +55,11 @@ public class TestInstitute {
 		medicalSchool.anthropology();
 		medicalSchool.caring();
 		medicalSchool.aeronauticalInfo();
-		medicalSchool.caring();		
 		medicalSchool.computerLab();
 		medicalSchool.hygiene();
 		medicalSchool.lawInfo();
 		medicalSchool.maths();
-		medicalSchool.mechanicalLab(); 
-		
+		medicalSchool.mechanicalLab();
 	}	
 
 }
