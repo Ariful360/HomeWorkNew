@@ -55,7 +55,7 @@ public class TestInstitute {
 		medicalSchool.anthropology();
 		medicalSchool.caring();
 		medicalSchool.aeronauticalInfo();
-		medicalSchool.caring();
+		medicalSchool.caring();		
 		medicalSchool.computerLab();
 		medicalSchool.hygiene();
 		medicalSchool.lawInfo();
