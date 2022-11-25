@@ -8,4 +8,16 @@ public class RockefellerUniversity extends EngineeringSchool {
 
 	}
 
+	@Override
+	public void mechanicalLab() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void aeronauticalInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

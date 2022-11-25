@@ -6,7 +6,7 @@ public interface College {
 
 	public void laboratory();
 
-	public void anguageClub();
+	public void languageClub();
 
 	public static void dorm() {
 

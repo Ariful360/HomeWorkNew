@@ -22,13 +22,15 @@ public interface University extends Hospital, College {
 	 * default, They are constant. They are abstract by nature.
 	 */
 
-	public static void gymnasium() {
+	public default void gymnasium() {
 
 	}
 
 	public static void library() {
 
 	}
+
+
 
 	/*
 	 * interface class uses one keyword for inheritance. interface cannot inherit a

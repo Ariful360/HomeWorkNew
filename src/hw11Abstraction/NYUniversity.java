@@ -1,6 +1,6 @@
 package hw11Abstraction;
 
-public class NYUniversity extends NursingSchool implements University {
+public class NYUniversity {
 
 	// method implemented
 	public void anthropology() {

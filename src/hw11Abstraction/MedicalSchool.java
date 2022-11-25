@@ -15,7 +15,8 @@ public abstract class MedicalSchool extends NursingSchool{
 		System.out.println("This is default Constructor of MediccalSchool class ");
 	}
 	
-	public static String Ariful() {
+	public static String ariful() {
+		return null;
 		
 	}
 	/*

@@ -29,6 +29,22 @@ public class ColumbiaUniversity extends MedicalSchool implements University, Voc
 		System.out.println("\"This static method from ColumbiaUniversity Class \"");
 		
 	}
+	
+	@Override
+	public void lawInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void anatomyLab() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void hygiene() {
+		// TODO Auto-generated method stub
+		
+	}
 	@Override
 	public void emergencyRoom() {
 		// TODO Auto-generated method stub
@@ -55,22 +71,7 @@ public class ColumbiaUniversity extends MedicalSchool implements University, Voc
 		
 	}
 	@Override
-	public void anguageClub() {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public void lawInfo() {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public void aeronauticalInfo() {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public void vocationalInfo() {
+	public void languageClub() {
 		// TODO Auto-generated method stub
 		
 	}
@@ -90,17 +91,7 @@ public class ColumbiaUniversity extends MedicalSchool implements University, Voc
 		
 	}
 	@Override
-	public void anatomyLab() {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public void hygiene() {
-		// TODO Auto-generated method stub
-		
-	}
-	@Override
-	public void mechanicalLab() {
+	public void vocationalInfo() {
 		// TODO Auto-generated method stub
 		
 	}
