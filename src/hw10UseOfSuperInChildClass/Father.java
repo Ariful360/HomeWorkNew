@@ -20,7 +20,7 @@ public class Father {
 		this.age = age;
 		this.sex = sex;
 		this.usCitizen = usCitizen;
-		System.out.println("My Name: " + name + "My Age: " + age + "My Sex: " + sex + "I Am Citizen: " + usCitizen);
+		System.out.println("My Name: " + name + ", My Age: " + age + ", My Sex: " + sex + ", I Am Citizen: " + usCitizen);
 	}
 
 	// void type method implemented
@@ -34,7 +34,7 @@ public class Father {
 		this.age = age;
 		this.sex = sex;
 		this.usCitizen = usCitizen;
-		System.out.println("My Name: " + name + "My Age: " + age + "My Sex: " + sex + "I Am Citizen: " + usCitizen);
+		System.out.println("My Name: " + name + ", My Age: " + age + ", My Sex: " + sex + ", I Am Citizen: " + usCitizen);
 	}
 
 }

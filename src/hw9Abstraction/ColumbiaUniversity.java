@@ -1,6 +1,6 @@
 package hw9Abstraction;
 
-public class ColumbiaUniversity{
+public class ColumbiaUniversity extends MedicalSchool{
 
 	// method implemented
 	public void chemistry() {
@@ -17,6 +17,16 @@ public class ColumbiaUniversity{
 	// Yes, we can create a Constructor in regular class.
 	public ColumbiaUniversity() {
 
+	}
+	@Override
+	public void anatomyLab() {
+		// implemented from MedicalSchool abstract class
+		
+	}
+	@Override
+	public void hygiene() {
+		// implemented from NursingSchool abstract class
+		
 	}
 
 	/*

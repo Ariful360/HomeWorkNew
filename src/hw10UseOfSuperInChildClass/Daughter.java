@@ -21,7 +21,7 @@ public class Daughter extends Father {
 		super("Ariful", 30, 'M', true);
 		this.birthMonth = birthMonth;
 		this.age = age;
-		System.out.println("Bith Month is: " + birthMonth + "Age is: " + age);
+		System.out.println("Bith Month is: " + birthMonth + ", Age is: " + age);
 	}
 
 	public void daughter() {
@@ -35,7 +35,7 @@ public class Daughter extends Father {
 		super.familyName = "Miah";
 		this.birthMonth = birthMonth;
 		this.age = age;
-		System.out.println("Bith Month is: " + birthMonth + "Age is: " + age);
+		System.out.println("Bith Month is: " + birthMonth + ", Age is: " + age);
 	}
 
 }
